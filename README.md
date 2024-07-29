@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing distributed multiservice systems
 - 🌱 I’m currently learning Golang, Python, professional with NodeJS 
 - 💞️ I’m looking for developers to collaborate on my own open-source projects
-- 📫 How to reach me tg:daniel_byta | mail:danielbyta.work(gmail)
+- 📫 How to reach me tg:bytadaniel | mail:danielbyta.work(gmail)
 
 <!---
 bytadaniel/bytadaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
