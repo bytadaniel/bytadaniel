@@ -28,7 +28,7 @@ I'm a passionate **Backend Developer** with over 4 years of experience in the IT
 
 - **Moscow University named after S. Yu. Witte**  
   *Information Technology*  
-  *September 2020 – July 2024*
+  *September 2020 – July 2025*
 
 ## 📫 Let's Connect
 
