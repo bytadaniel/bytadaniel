@@ -15,7 +15,7 @@ I'm a passionate **Backend Developer** with over 4 years of experience in the IT
 
 ## 🏢 Professional Experience
 
-- **Senior Backend Developer** at *RusJet Airlines* (Moscow)  
+- **Middle Backend Developer** at *RusJet Airlines* (Moscow)  
   *January 2024 – Present*
 - **Lead Backend Developer** at *Technopolis* (Moscow)  
   *February 2023 – January 2024*
